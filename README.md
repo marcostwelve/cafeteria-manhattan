@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A cafeteria Manhattan, é uma landing page, com informações sobre uma cafeteria.
 
-- [visite o projeto online](https://marcostwelve.github.io/nlw-setup)
+- [visite o projeto online](https://marcostwelve.github.io/cafeteria-manhattan/)
 
 ## :memo: Licença
 
